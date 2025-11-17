@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VonHumbolt&show_icons=true&count_private=true&hide_border=true&title_color=26BF60&icon_color=0D4C2A&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Wyldner Pina github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WyldnerPina&show_icons=true&count_private=true&hide_border=true&title_color=26BF60&icon_color=0D4C2A&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Wyldner Pina github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonHumbolt&layout=compact&hide_border=true&title_color=26BF60&text_color=26BF60&bg_color=0d1117" />
 </div>
 
