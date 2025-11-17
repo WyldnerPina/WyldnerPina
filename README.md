@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:26BF60,100:0D4C2A&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:26BF60,100:0D4C2A&section=header"/> -->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2F2F2&size=45&center=true&vCenter=true&width=1000&lines=Wyldner+Pina;)](https://git.io/typing-svg)--> 
 <h1 align="center"> Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wyldner Pina!! </h1>
 
@@ -89,7 +89,8 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -145,10 +146,8 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 
@@ -162,10 +161,7 @@ Here are some ideas to get you started:
 
 ---
 
-
 [![Wyldner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WyldnerPina&bg_color=000000&color=26BF60&line=0D4C2A&point=26BF60&area=true&hide_border=true)](https://github.com/WyldnerPina/github-readme-activity-graph)
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:26BF60,100:0D4C2A&section=footer"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:26BF60,100:0D4C2A&section=footer"/>  -->
 
