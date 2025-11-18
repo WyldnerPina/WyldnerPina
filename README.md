@@ -42,7 +42,7 @@
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
   
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
