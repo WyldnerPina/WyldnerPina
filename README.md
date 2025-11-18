@@ -20,7 +20,7 @@
 </table> -->
 
 <div text-align="justify">
-<p>I’m a programmer passionate about technology and continuous learning. I value clear communication, teamwork, and critical thinking to turn ideas into effective solutions. I bring resilience to challenges and empathy to keep the user at the heart of every decision.</p>
+<p>I’m a developer who’s always learning and looking for better ways to solve problems. I value good communication, teamwork, and keeping things organized so the work flows naturally. I like to approach challenges with calm and focus, and I try to understand the user’s perspective before jumping into code. I’m always improving my technical and soft skills to deliver something that really makes sense in the end.</p>
 </div> 
 
 ---
