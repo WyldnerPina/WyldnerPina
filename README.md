@@ -10,14 +10,22 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYzcXZudnVlemsybzRjOHZkdW05czVleXUwNHFpdnRtenM0N2N5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> About me</b>
 
-<table>
+<!-- <table>
   <tr>
     <td width="150">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNmMzMwOHowYmc3a2o5ZXdpODlheG1henduNXdzbjFoMWliZ3BpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" >
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNmMzMwOHowYmc3a2o5ZXdpODlheG1henduNXdzbjFoMWliZ3BpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" media="screen and (min-width=720)" >
     </td>
     <td width="850" text-align="justify" vertical-align="middle">I’m a programmer passionate about technology and continuous learning. I value clear communication, teamwork, and critical thinking to turn ideas into effective solutions. I bring resilience to challenges and empathy to keep the user at the heart of every decision.</td>
   </tr>
-</table>
+</table> -->
+
+<div text-align="justify">
+<p>I’m a programmer passionate about technology and continuous learning. I value clear communication, teamwork, and critical thinking to turn ideas into effective solutions. I bring resilience to challenges and empathy to keep the user at the heart of every decision.</p>
+</div> 
+
+---
+
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -54,6 +62,7 @@
 
 ---
 
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 
