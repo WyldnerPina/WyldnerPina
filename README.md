@@ -28,7 +28,7 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
+<br><br>
 <div align="center">
   
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -42,7 +42,7 @@
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
@@ -59,6 +59,7 @@
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg/640px-Adobe_Illustrator_Icon_%28CS6%29.svg.png" />
 
 </div>
+<br><br>
 
 ---
 
