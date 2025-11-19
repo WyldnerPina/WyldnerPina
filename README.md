@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer&font=JetBrains+Mono&center=true&width=650&height=60&color=26BF60&vCenter=true&size=25%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer&font=JetBrains+Mono&center=true&width=650&height=60&color=26BF60&vCenter=true&size=25%22">
   </a>
 </p>
 
@@ -78,7 +78,14 @@
 
 [![Wyldner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WyldnerPina&bg_color=000000&color=26BF60&line=0D4C2A&point=26BF60&area=true&hide_border=true)](https://github.com/WyldnerPina/github-readme-activity-graph)
 
-
+ <!-- links de gifs para md
+                https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVjbTc3N210c3htaXdveWp0ZzlrNWF5dzR4cWd2NTZxN2ZvN2JpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif
+                https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdsbGI3d3YwNTd0ZW9yOThsbndreWM4MGkxemNtcHN5NHZ4Y3l2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oIkKc14UI2eTXwfn4x/giphy.gif
+                https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY284cGJjcGRoampuYXg2bjc3a2FrdHFuNnpoOTF5ZmtzNWZkcnBscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif
+                https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ4emozMzYwZmJwenR1OGY1cXN0ZHY2cTdwMDkxb3N5M3l3ZXhnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLz5I4BGyRSOlbSC3o/giphy.gif
+                https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGgzZjByeHhzeXV2Z3hmNnl1ZnA2eXI0c3dhbDhheXJvdG1kcnhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CGHy1hQ1WPKDCz5Xk6/giphy.gif
+                
+                -->
 <!-- 
 ## 👨🏻‍💻 &nbsp;About Me
 
